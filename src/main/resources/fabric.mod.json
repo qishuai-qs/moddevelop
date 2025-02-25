@@ -5,10 +5,10 @@
 	"name": "TutorialMod",
 	"description": "这是描述",
 	"authors": [
-		"北山Besson"
+		"qsdd"
 	],
 	"contact": {
-		"sources": "https://github.com/BeiShanair/tutorialmod-template-1.21"
+		"sources": "https://github.com/qishuai-qs/moddevelop"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/tutorialmod/icon.png",
