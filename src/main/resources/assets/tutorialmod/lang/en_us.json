@@ -1,4 +1,7 @@
 {
   "item.tutorialmod.ice_ether": "Ice Ether",
-  "item.tutorialmod.ice_ether_v2": "Ice Ether V2"
+  "item.tutorialmod.ice_ether_v2": "Ice Ether V2",
+  "block.tutorialmod.ice_ether_block": "Ice Ether 方块",
+  "itemGroup.tutorial_group": "TUTORIAL GROUP",
+  "itemGroup.tutorial_weapon_group": "TUTORIAL WEAPON GROUP"
 }
