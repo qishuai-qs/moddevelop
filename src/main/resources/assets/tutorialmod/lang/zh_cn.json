@@ -1,4 +1,7 @@
 {
   "item.tutorialmod.ice_ether": "冰之以太",
-  "item.tutorialmod.ice_ether_v2": "冰之AB"
+  "item.tutorialmod.ice_ether_v2": "冰之AB",
+  "block.tutorialmod.ice_ether_block": "Ice Ether BLOCK",
+  "itemGroup.tutorial_group": "教程组",
+  "itemGroup.tutorial_weapon_group": "教程武器组"
 }
